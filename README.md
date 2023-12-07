@@ -1,2 +1,3 @@
-# SoftUni-Courses-ongoing
-Courses from my education at SoftUni
+# SoftUni Python
+
+Here you can find all my completed courses from my education at SoftUni.
